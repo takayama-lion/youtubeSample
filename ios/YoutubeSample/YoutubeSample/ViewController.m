@@ -23,6 +23,8 @@
     [self.playerView2 loadWithVideoId:@"gDgw9R6wZV4"];
     self.playerView2.delegate = self;
     
+    UITapGestureRecognizer *recognizer = [[UITapGestureRecognizer alloc] initWithTarget:self action:@selector(onTapped:)];
+    [self.ImageSample addGestureRecognizer:recognizer];
 }
 
 
@@ -64,5 +66,8 @@
     }
     NSLog(@"--%f", playerView.frame.size.height);
 }
-
+- (void)onTapped:(UITapGestureRecognizer *)recognizer {
+    NSLog(@"------tap");
+    [self.playerView2 playVideo];
+}
 @end

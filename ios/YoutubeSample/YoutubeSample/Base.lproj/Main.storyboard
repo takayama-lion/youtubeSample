@@ -65,16 +65,40 @@
                                     <action selector="onButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="wcO-kp-scP"/>
                                 </connections>
                             </button>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="lZ0-5b-JAA">
+                                <rect key="frame" x="0.0" y="304" width="375" height="210"/>
+                                <subviews>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="画像被せてタップ起動" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="FaH-WR-vrx">
+                                        <rect key="frame" x="89" y="95" width="197" height="21"/>
+                                        <constraints>
+                                            <constraint firstAttribute="width" constant="197" id="btL-jG-ngO"/>
+                                            <constraint firstAttribute="height" constant="21" id="q04-cr-gAz"/>
+                                        </constraints>
+                                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                        <nil key="textColor"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                </subviews>
+                                <color key="backgroundColor" red="0.98823529409999999" green="0.76862745099999996" blue="0.65490196079999996" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <constraints>
+                                    <constraint firstItem="FaH-WR-vrx" firstAttribute="top" secondItem="lZ0-5b-JAA" secondAttribute="top" constant="95" id="6eh-uQ-Htc"/>
+                                    <constraint firstItem="FaH-WR-vrx" firstAttribute="centerX" secondItem="lZ0-5b-JAA" secondAttribute="centerX" id="kOp-aj-eEj"/>
+                                </constraints>
+                            </view>
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
                             <constraint firstItem="9kA-Gu-rXI" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="6EH-DF-Ihk"/>
+                            <constraint firstItem="lZ0-5b-JAA" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="7ZZ-Fg-oJJ"/>
+                            <constraint firstItem="lZ0-5b-JAA" firstAttribute="top" secondItem="4cZ-mY-MRb" secondAttribute="bottom" constant="8" id="KOb-lf-gGt"/>
                             <constraint firstItem="MJV-Rh-BBV" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="Lo7-L2-xPq"/>
                             <constraint firstItem="MDv-fj-NAr" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="NHf-dB-Mw6"/>
+                            <constraint firstItem="lZ0-5b-JAA" firstAttribute="width" secondItem="8bC-Xf-vdC" secondAttribute="width" id="OOK-JT-knt"/>
                             <constraint firstItem="MDv-fj-NAr" firstAttribute="width" secondItem="MDv-fj-NAr" secondAttribute="height" multiplier="25:14" id="OfG-Gi-gBk"/>
                             <constraint firstItem="MJV-Rh-BBV" firstAttribute="top" secondItem="9kA-Gu-rXI" secondAttribute="bottom" constant="8" symbolic="YES" id="Q32-U9-HwB"/>
                             <constraint firstItem="NMY-Na-XGg" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="W5U-pz-Jp7"/>
                             <constraint firstItem="NMY-Na-XGg" firstAttribute="top" secondItem="MDv-fj-NAr" secondAttribute="bottom" constant="8" symbolic="YES" id="WcT-mw-37I"/>
+                            <constraint firstItem="NMY-Na-XGg" firstAttribute="top" secondItem="lZ0-5b-JAA" secondAttribute="bottom" constant="8" symbolic="YES" id="aVq-9M-1kO"/>
                             <constraint firstItem="MDv-fj-NAr" firstAttribute="leading" secondItem="MJV-Rh-BBV" secondAttribute="leading" id="fEy-kR-lPi"/>
                             <constraint firstItem="4cZ-mY-MRb" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="ioN-Ci-0NH"/>
                             <constraint firstItem="4cZ-mY-MRb" firstAttribute="top" secondItem="MJV-Rh-BBV" secondAttribute="bottom" constant="8" id="lmr-Gh-s15"/>
@@ -84,6 +108,7 @@
                         </constraints>
                     </view>
                     <connections>
+                        <outlet property="ImageSample" destination="lZ0-5b-JAA" id="DHV-Xd-nJ4"/>
                         <outlet property="button" destination="NMY-Na-XGg" id="HQ8-Fb-6oe"/>
                         <outlet property="playerView" destination="MJV-Rh-BBV" id="rRx-RW-aDd"/>
                         <outlet property="playerView2" destination="MDv-fj-NAr" id="mtW-lu-inZ"/>
