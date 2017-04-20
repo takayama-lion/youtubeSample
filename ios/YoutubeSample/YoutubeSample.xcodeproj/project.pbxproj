@@ -256,7 +256,7 @@
 				TargetAttributes = {
 					2E6A655E1EA5E7B000315528 = {
 						CreatedOnToolsVersion = 8.3.1;
-						DevelopmentTeam = 2ZETZL32SP;
+						DevelopmentTeam = A7963YR2Z6;
 						ProvisioningStyle = Automatic;
 					};
 					2E6A65771EA5E7B000315528 = {
@@ -615,10 +615,10 @@
 			baseConfigurationReference = C0EE6A0E7A5F0EE6655A8C8D /* Pods-YoutubeSample.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 2ZETZL32SP;
+				DEVELOPMENT_TEAM = A7963YR2Z6;
 				INFOPLIST_FILE = YoutubeSample/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = jp.lionbox.YoutubeSample;
+				PRODUCT_BUNDLE_IDENTIFIER = jp.arinqrin.teasarge;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -628,10 +628,10 @@
 			baseConfigurationReference = 3A6BC5D08315377663F0861A /* Pods-YoutubeSample.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 2ZETZL32SP;
+				DEVELOPMENT_TEAM = A7963YR2Z6;
 				INFOPLIST_FILE = YoutubeSample/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = jp.lionbox.YoutubeSample;
+				PRODUCT_BUNDLE_IDENTIFIER = jp.arinqrin.teasarge;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;

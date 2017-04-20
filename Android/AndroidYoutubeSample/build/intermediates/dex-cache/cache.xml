@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/hiroyuki/AndroidProjects/AndroidYoutubeSample/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e29c5394994fae659d05677bc655b5026397be5c">
+        <dex dex="/Users/hiroyuki/AndroidProjects/AndroidYoutubeSample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2ee7bb53d38c4c39f8a2164761156dcee45d4e68/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hiroyuki/AndroidProjects/AndroidYoutubeSample/app/libs/YouTubeAndroidPlayerApi.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="/Users/hiroyuki/AndroidProjects/AndroidYoutubeSample/app/build/intermediates/transforms/dex/debug/folders/1000/2/YouTubeAndroidPlayerApi_161acd0cf51fd4a80d47c98db156fb11987f2722/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hiroyuki/AndroidProjects/AndroidYoutubeSample/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/hiroyuki/AndroidProjects/AndroidYoutubeSample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d62132c99422af5457ed0d02a44662d3029a2411/classes.dex" />
+    </item>
+
+</items>

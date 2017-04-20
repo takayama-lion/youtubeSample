@@ -16,6 +16,7 @@
 @property(nonatomic, strong) IBOutlet UIButton *button;
 @property(nonatomic, strong) IBOutlet UIView *ImageSample; // 画像Viewの代わり
 
+@property BOOL Operation;
 -(IBAction)onButton:(id)sender;
 @end
 
