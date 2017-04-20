@@ -35,11 +35,10 @@ public class MainActivity extends YouTubeBaseActivity
         this.player = youTubePlayer;
         setControlsEnabled();
         // Specify that we want to handle fullscreen behavior ourselves.
-//        player.addFullscreenControlFlag(YouTubePlayer.FULLSCREEN_FLAG_CUSTOM_LAYOUT);
         player.addFullscreenControlFlag(YouTubePlayer.FULLSCREEN_FLAG_CUSTOM_LAYOUT);
         player.setOnFullscreenListener(this);
         if (!b) {
-            player.cueVideo("avP5d16wEp0");
+            player.cueVideo("e3Nl_TCQXuw");
         }
     }
 
