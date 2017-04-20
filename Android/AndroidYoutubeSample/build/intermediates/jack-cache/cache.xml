@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/hiroyuki/.android/build-cache/1a69d65325d249f841927adaaad7c9593d202e40/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/hiroyuki/AndroidProjects/AndroidYoutubeSample/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-023a7c7819552b2f9fb1458c365b829c84625966.jar" />
+    </item>
+    <item
+        jar="/Users/hiroyuki/.android/build-cache/f9977db4298b02d043064bec60232c57100a0cd7/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/hiroyuki/AndroidProjects/AndroidYoutubeSample/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-c9c151c41a3f1ebd47a689d10933144948d79fb1.jar" />
+    </item>
+    <item
+        jar="/Users/hiroyuki/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.1/constraint-layout-solver-1.0.1.jar"
+        revision="25.0.2"
+        sha1="1ad79631209e77b0a2730fc112b4cc0c66a95132">
+        <dex dex="/Users/hiroyuki/AndroidProjects/AndroidYoutubeSample/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/constraint-layout-solver-1.0.1-734c3bd99efcb7cbc150b447cd1e785f381224eb.jar" />
+    </item>
+    <item
+        jar="/Users/hiroyuki/Library/Android/sdk/platforms/android-25/optional/org.apache.http.legacy.jar"
+        revision="25.0.2"
+        sha1="5f0541a4298daa0590b22cfbde43f85e2a675545">
+        <dex dex="/Users/hiroyuki/AndroidProjects/AndroidYoutubeSample/app/build/intermediates/transforms/preJackRuntimeLibraries/debug/jars/8000/40/org.apache.http.legacy-ccb0addad22f7d4b53f385b7db8320241f842ebd.jar" />
+    </item>
+    <item
+        jar="/Users/hiroyuki/.android/build-cache/964fd607a976f377bee0d4930ceae09a5b0819bf/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/hiroyuki/AndroidProjects/AndroidYoutubeSample/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-7288ce181b8ea88d39661eb986e9a1a11f67ba81.jar" />
+    </item>
+    <item
+        jar="/Users/hiroyuki/.android/build-cache/489440089e33dbbae15a77134d7e26a74a8f3193/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="7113302c965566b66df46c6ca75ea301576114a5">
+        <dex dex="/Users/hiroyuki/AndroidProjects/AndroidYoutubeSample/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-20d5517724e314a50b73464642ddba62659659ed.jar" />
+    </item>
+    <item
+        jar="/Users/hiroyuki/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.0/14b8c877d98005ba3941c9257cfe09f6ed0e0d74/reactive-streams-1.0.0.jar"
+        revision="25.0.2"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="/Users/hiroyuki/AndroidProjects/AndroidYoutubeSample/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/reactive-streams-1.0.0-61bc2b45d4b1114d1392e228451921cda19cd067.jar" />
+    </item>
+    <item
+        jar="/Users/hiroyuki/.android/build-cache/2c13792370047c2ec85ae6df1688a71050015add/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/hiroyuki/AndroidProjects/AndroidYoutubeSample/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-105b6b30aa605f034f9f94b3ed2f0a2862b51c1c.jar" />
+    </item>
+    <item
+        jar="/Users/hiroyuki/.android/build-cache/d8f1ee41e3ff67932f6db3c4ee0c02c7a786d295/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/hiroyuki/AndroidProjects/AndroidYoutubeSample/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-2b8b5faaa49d11d50d6026fc944f7c59b5a46133.jar" />
+    </item>
+    <item
+        jar="/Users/hiroyuki/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/hiroyuki/AndroidProjects/AndroidYoutubeSample/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/support-annotations-25.3.1-e95f04731ef12d998ebf3b21e618f7b82383e386.jar" />
+    </item>
+    <item
+        jar="/Users/hiroyuki/.android/build-cache/527c013c449b33bf8fedaf34bc6aecabc1e89a80/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/hiroyuki/AndroidProjects/AndroidYoutubeSample/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-4428554140548b96844768a934887498d032d64f.jar" />
+    </item>
+    <item
+        jar="/Users/hiroyuki/Library/Android/sdk/platforms/android-25/android.jar"
+        revision="25.0.2"
+        sha1="712a0312fe844a21a1b3812fa960c363a1578984">
+        <dex dex="/Users/hiroyuki/AndroidProjects/AndroidYoutubeSample/app/build/intermediates/transforms/preJackRuntimeLibraries/debug/jars/8000/40/android-dfe24af887a5a254698ba9df616994f5b43c0744.jar" />
+    </item>
+    <item
+        jar="/Users/hiroyuki/.android/build-cache/773312b635990402dfdfc3328a7335c1a34371c7/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/hiroyuki/AndroidProjects/AndroidYoutubeSample/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-cc197a5dc11c8d0082eb0aba96fa4f49cd72165b.jar" />
+    </item>
+    <item
+        jar="/Users/hiroyuki/.android/build-cache/90cf4046e4b37465091491897d0e0908b2637892/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/hiroyuki/AndroidProjects/AndroidYoutubeSample/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-5a020d8dee7e00dd3eb8c6eaf79041e834fbdb8b.jar" />
+    </item>
+    <item
+        jar="/Users/hiroyuki/AndroidProjects/AndroidYoutubeSample/app/libs/YouTubeAndroidPlayerApi.jar"
+        revision="25.0.2"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="/Users/hiroyuki/AndroidProjects/AndroidYoutubeSample/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/YouTubeAndroidPlayerApi-161acd0cf51fd4a80d47c98db156fb11987f2722.jar" />
+    </item>
+    <item
+        jar="/Users/hiroyuki/.android/build-cache/079dd2b7560b20d59dd14064143fd2476b77e44a/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/hiroyuki/AndroidProjects/AndroidYoutubeSample/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-351492bfd4ddf23570ce55e94db712323a754614.jar" />
+    </item>
+    <item
+        jar="/Users/hiroyuki/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.0.8/47fadd5ff70f325e520fbc491227bd9283a48f95/rxjava-2.0.8.jar"
+        revision="25.0.2"
+        sha1="47fadd5ff70f325e520fbc491227bd9283a48f95">
+        <dex dex="/Users/hiroyuki/AndroidProjects/AndroidYoutubeSample/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/rxjava-2.0.8-4f839bd2f210ef99a7c67367093ed7e362b2d9a6.jar" />
+    </item>
+    <item
+        jar="/Users/hiroyuki/.android/build-cache/93e9af42ca0e24a7f47531972695a3f99661af79/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/hiroyuki/AndroidProjects/AndroidYoutubeSample/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-7e539c86107d93451b0a89fbd2b8550b4dd5960a.jar" />
+    </item>
+    <item
+        jar="/Users/hiroyuki/.android/build-cache/96e6ea5732e94d1362529af7cf987fe734f7c7f6/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/hiroyuki/AndroidProjects/AndroidYoutubeSample/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-e677cbf6b4b939ce7df24eeb4d98968cec534f96.jar" />
+    </item>
+    <item
+        jar="/Users/hiroyuki/.android/build-cache/c4737495d976686c42a1e319cd8cf418a37a0990/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="4119ea97a7191ff9b8f33b534ea220448f62f491">
+        <dex dex="/Users/hiroyuki/AndroidProjects/AndroidYoutubeSample/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-d665d10cf0c760685be02ccaabd3ff811c9e084d.jar" />
+    </item>
+    <item
+        jar="/Users/hiroyuki/.android/build-cache/71e2b33383516d230a3d8cd89a6e8146732c6327/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/hiroyuki/AndroidProjects/AndroidYoutubeSample/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-c53251ad144a2630b7e2e85f3262419d4d4657aa.jar" />
+    </item>
+
+</items>

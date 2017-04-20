@@ -7,20 +7,28 @@
     tools:context="com.example.hiroyuki.androidyoutubesample.MainActivity">
 
     <LinearLayout
+        android:id="@+id/layout"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:orientation="vertical">
 
-        <com.google.android.youtube.player.YouTubePlayerView
-            android:id="@+id/player"
+        <com.example.hiroyuki.androidyoutubesample.DisplayAspectRatioFrameLayout
+            xmlns:custom="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/image_view_layout"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"/>
+            android:layout_height="wrap_content"
+            custom:aspectRate="4:3"
+            >
 
-        <Button
-            android:text="ボタン"
-            android:onClick="onButton"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content" />
+            <ImageView
+                android:onClick="onClick"
+                android:src="@mipmap/image01"
+                android:scaleType="fitCenter"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+        </com.example.hiroyuki.androidyoutubesample.DisplayAspectRatioFrameLayout>
+
     </LinearLayout>
 
 </android.support.constraint.ConstraintLayout>
